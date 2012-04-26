@@ -1,0 +1,9 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+x64/*
+syntax: glob
+Count Lines.opensdf
+Count Lines.sdf
+Count Lines.suo
