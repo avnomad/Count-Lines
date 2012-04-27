@@ -7,8 +7,6 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Debug|x64 = Debug|x64
-		release 64|Win32 = release 64|Win32
-		release 64|x64 = release 64|x64
 		Release|Win32 = Release|Win32
 		Release|x64 = Release|x64
 	EndGlobalSection
@@ -17,10 +15,6 @@ Global
 		{F82B589C-2F81-40C5-B900-0CEB18947991}.Debug|Win32.Build.0 = Debug|Win32
 		{F82B589C-2F81-40C5-B900-0CEB18947991}.Debug|x64.ActiveCfg = Debug|x64
 		{F82B589C-2F81-40C5-B900-0CEB18947991}.Debug|x64.Build.0 = Debug|x64
-		{F82B589C-2F81-40C5-B900-0CEB18947991}.release 64|Win32.ActiveCfg = release 64|Win32
-		{F82B589C-2F81-40C5-B900-0CEB18947991}.release 64|Win32.Build.0 = release 64|Win32
-		{F82B589C-2F81-40C5-B900-0CEB18947991}.release 64|x64.ActiveCfg = release 64|x64
-		{F82B589C-2F81-40C5-B900-0CEB18947991}.release 64|x64.Build.0 = release 64|x64
 		{F82B589C-2F81-40C5-B900-0CEB18947991}.Release|Win32.ActiveCfg = Release|Win32
 		{F82B589C-2F81-40C5-B900-0CEB18947991}.Release|Win32.Build.0 = Release|Win32
 		{F82B589C-2F81-40C5-B900-0CEB18947991}.Release|x64.ActiveCfg = Release|x64
